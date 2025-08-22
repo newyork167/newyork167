@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newyork167" alt="newyork167" /></a> </p>
 
-- 📫 How to reach me **codydietz@siggraph.org**
+- 📫 How to reach me **cody.dietz@thebatcomputer.net**
 
 - 👨‍💻 All of my projects are available here, or for more work projects at [codydietz.net](https://codydietz.net)
 
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Culture in 2025](https://blog.codydietz.net/engineering/ai/2025/06/01/Engineering-Culture-in-2025.html)
 - [Cyber Apocalypse 2024 - Forensics - Phreaky](https://blog.codydietz.net/infosec/ctf/cyber%20apocalypse%202024/forensics/2024/03/13/cyber-apocalypse-2024-phreaky.html)
 - [Cyber Apocalypse 2024 - Forensics - Data Siege](https://blog.codydietz.net/infosec/ctf/cyber%20apocalypse%202024/forensics/2024/03/13/cyber-apocalypse-2024-data-siege.html)
 - [Emerging Threats - Phishing Scripts Detecting IPs](https://blog.codydietz.net/infosec/phishing/web/threat%20hunting/2023/07/25/emerging-threats-ip-watcher-1.html)
-- [Cyber Apocalypse 2022 - Web - Mutation Lab](https://blog.codydietz.net/infosec/cyber%20apocalypse%202022/web/2022/05/19/cyber-apocalypse-2022-writeups-web-mutation-lab.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
