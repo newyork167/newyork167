@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Culture in 2025](https://blog.codydietz.net/engineering/ai/2025/06/01/Engineering-Culture-in-2025.html)
-- [Cyber Apocalypse 2024 - Forensics - Phreaky](https://blog.codydietz.net/infosec/ctf/cyber%20apocalypse%202024/forensics/2024/03/13/cyber-apocalypse-2024-phreaky.html)
-- [Cyber Apocalypse 2024 - Forensics - Data Siege](https://blog.codydietz.net/infosec/ctf/cyber%20apocalypse%202024/forensics/2024/03/13/cyber-apocalypse-2024-data-siege.html)
-- [Emerging Threats - Phishing Scripts Detecting IPs](https://blog.codydietz.net/infosec/phishing/web/threat%20hunting/2023/07/25/emerging-threats-ip-watcher-1.html)
+- [LocalStack and Terragrunt](/posts/localstack-terragrunt/)
+- [Engineering Culture in 2025](/posts/Engineering-Culture-in-2025/)
+- [Leetcode 75 #2](/posts/leetcode-75-2/)
+- [Leetcode 75 #1](/posts/leetcode-75-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
