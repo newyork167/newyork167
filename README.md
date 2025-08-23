@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [LocalStack and Terragrunt](https://blog.thebatcomputer.net/posts/localstack-terragrunt/)
-- [Engineering Culture in 2025](https://blog.thebatcomputer.net/posts/Engineering-Culture-in-2025/)
-- [Leetcode 75 #2](https://blog.thebatcomputer.net/posts/leetcode-75-2/)
-- [Leetcode 75 #1](https://blog.thebatcomputer.net/posts/leetcode-75-1/)
+- [LocalStack and Terragrunt](https://blog.codydietz.net/posts/localstack-terragrunt/)
+- [Engineering Culture in 2025](https://blog.codydietz.net/posts/Engineering-Culture-in-2025/)
+- [Leetcode 75 #2](https://blog.codydietz.net/posts/leetcode-75-2/)
+- [Leetcode 75 #1](https://blog.codydietz.net/posts/leetcode-75-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
