@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce/Gainsight Breach IOCs](https://blog.codydietz.net/posts/Salesforce-Gainsight-Breach/)
-- [LocalStack and Terragrunt](https://blog.codydietz.net/posts/localstack-terragrunt/)
-- [Engineering Culture in 2025](https://blog.codydietz.net/posts/Engineering-Culture-in-2025/)
-- [Leetcode 75 #2](https://blog.codydietz.net/posts/leetcode-75-2/)
+- [Salesforce and Gainsight Breach IOCs](/posts/Salesforce-Gainsight-Breach/)
+- [LocalStack and Terragrunt](/posts/localstack-terragrunt/)
+- [Engineering Culture in 2025](/posts/Engineering-Culture-in-2025/)
+- [Leetcode 75 #2](/posts/leetcode-75-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
