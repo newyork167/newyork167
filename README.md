@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newyork167" alt="newyork167" /></a> </p>
 
-- 📫 How to reach me **cody.dietz@thebatcomputer.net**
+- 📫 How to reach me: **cody.dietz.dev@gmail.com**
 
 - 👨‍💻 All of my projects are available here, or for more work projects at [codydietz.net](https://codydietz.net)
 
