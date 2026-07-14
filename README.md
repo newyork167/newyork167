@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qilin? / ClearFake Camapain](/posts/Qilin-ClearFake-Campaign/)
 - [Salesforce and Gainsight Breach IOCs](/posts/Salesforce-Gainsight-Breach/)
 - [LocalStack and Terragrunt](/posts/localstack-terragrunt/)
-- [Engineering Culture in 2025](/posts/Engineering-Culture-in-2025/)
-- [Leetcode 75 #2](/posts/leetcode-75-2/)
+- [Cyber Apocalypse 2024 - Forensics - Phreaky](/posts/cyber-apocalypse-2024-phreaky/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
